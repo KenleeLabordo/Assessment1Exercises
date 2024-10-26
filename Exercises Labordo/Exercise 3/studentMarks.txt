@@ -1,0 +1,6 @@
+5
+1001,John Doe,15,16,18,85
+1002,Jane Smith,12,14,15,78
+1003,Emily Davis,10,10,12,65
+1004,Michael Brown,17,19,20,92
+1005,Olivia Wilson,8,7,10,40
